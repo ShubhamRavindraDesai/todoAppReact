@@ -1,5 +1,3 @@
-import React from "react";
-import "./App.css";
 import Header from "./componants/header/Header";
 import Todos from "./componants/todos/Todos";
 
